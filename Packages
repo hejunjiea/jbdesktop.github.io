@@ -1,0 +1,16 @@
+Package: com.jevchat115plus
+Architecture: iphoneos-arm64
+Version: 1.1.5-plus.2-ui.1
+Section: Tweaks
+Maintainer: changyemm
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.jevchat115plus_1.1.5-plus.2-ui.1_iphoneos-arm64.deb
+Size: 1281524
+MD5sum: 864842df7e583b2d53b435e435924836
+SHA1: 9fa2c0af2f33bda689c8248eac385efb48a8f0bf
+SHA256: 49377a8bf2983aaf1d3326159b32dabd4816efaf1697b56c45b7b9788c8572e4
+SHA512: 941746f0d3bdb4531bb2e885620dbfe4f67b0f04465ed0451673cf2d772c8b1c41b6b8a9f94fee9e62ccbef6b6793024820f4574486f25cdf203d4323fef3b54
+Description: Jev Chat 1.1.5 最小上限补丁 + 伴随 UI（群聊手动 Jev、胶囊、卡片回收、设置页清理）。基础功能与支持作者整块删除。
+Name: JevChat115Plus
+Author: changyemm
+
