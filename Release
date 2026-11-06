@@ -1,16 +1,16 @@
-Origin: 
-Label: 
+Origin: tanyou
+Label: tanyou
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 
+Description: tanyou
 Support: https://hejunjiea.github.io/jbdesktop.github.io/
 Icon: https://hejunjiea.github.io/jbdesktop.github.io/CydiaIcon.png
 MD5Sum:
  fa52da7d437c5e58f2d800382682eb4c  752 Packages
- e55e2f414ee5877318ee3c966a28d269  608 Packages.gz
+ 7d0c65c52d623097c86871f65dda9b1b  608 Packages.gz
 SHA256:
  ad249812b224a5f6b65c78d84fd9413fdc55727c8315054a42447a89a76bcb5f  752 Packages
- 30f0a6afcf892c1eccc2ba49fae572127a099a74a70a6885b80f08484fef20e2  608 Packages.gz
+ e86225de71acba69ea8dab01fb5a0e5f422e4efeb66a636068d65011cd28228c  608 Packages.gz
