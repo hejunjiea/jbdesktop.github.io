@@ -18,3 +18,20 @@ Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/trollopen.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: com.local.bgnetwork
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Section: Utilities
+Maintainer: Local
+Installed-Size: 192
+Depends: firmware (>= 15.5)
+Filename: debs/com.local.bgnetwork_1.3.3_iphoneos-arm64.deb
+Size: 50088
+MD5sum: b978e57c845c1a416ba93b485c7a59bd
+SHA1: 43b67986e67cc6bd5dfb83ce0af99cd144d3cf81
+SHA256: ca6697c1a5a70b2f7448d150b64198b0ef6b6fd22b675c13e06d18596f515fcc
+SHA512: 4f3fa9ca2f0807a489880b36328fdec3ac488bc14ebdb41ec53719aa0623ae93bcb705ef0a1757d7ab820e950bce31362e2eb4b304a63dc4f42e17ab2d0748a6
+Description: Per-app background network switches. UI and policy engine both untouched from 1.2.2 (the build that works on iOS 17.3.1). A tiny pure-C watchdog now keeps status.json fresh every 1.5s and auto-restarts the engine if it dies, fixing the "service status drops when many apps are blocked" problem.
+Name: 后台断网 BGNetwork
+Author: Local
+
